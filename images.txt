@@ -1,2 +1,2 @@
-bitnami/mongodb:8.0.4
-bitnami/postgresql:17.2.0
+mongodb/mongodb-community-server
+pgvector/pgvector:pg16
