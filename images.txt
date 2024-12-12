@@ -1,2 +1,1 @@
-mongodb/mongodb-community-server
-pgvector/pgvector:pg16
+justsong/one-api:latest
