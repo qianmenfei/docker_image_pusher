@@ -1,1 +1,1 @@
-node:20.18
+node:20.18-alpine3.20
