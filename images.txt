@@ -1,1 +1,5 @@
-stawky/m3e-large-api
+mysql:8.0.27
+13671354640/zxcm:0.9.1
+13671354640/zxcm-xxl-job-admin:0.9.1
+nginx:1.21.3
+redis:6.2.6
