@@ -1,1 +1,1 @@
-openjdk:8-jre
+keking/kkfileview-base:4.4.0
