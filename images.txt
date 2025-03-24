@@ -1,1 +1,1 @@
-keking/kkfileview
+nvidia/cuda:11.7.1-devel-ubuntu20.04
