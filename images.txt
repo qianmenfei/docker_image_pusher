@@ -1,1 +1,1 @@
-nvidia/cuda:11.7.1-devel-ubuntu20.04
+nvcr.io/nvidia/pytorch:23.04-py3
