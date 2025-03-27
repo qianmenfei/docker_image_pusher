@@ -1,1 +1,1 @@
-nvcr.io/nvidia/pytorch:23.04-py3
+chromadb/chroma
